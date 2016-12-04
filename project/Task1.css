@@ -1,0 +1,89 @@
+ body {
+    background:white;
+}
+li {
+	color: black;
+    text-decoration: none;
+    display: inline;
+    padding: 10px
+}
+html, body {
+	height: 100%;
+	margin: 0;
+    padding: 0;
+}
+ul {
+	color: black;
+	text-align: right;
+	background-color: white;
+	text-decoration: none;
+	padding: 10px;
+}
+li a {
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	padding: 10px;
+}
+#img {
+	position: static;
+	border: none;
+    width: 100%;
+}
+#text {
+	background-color: black;
+	color: white;
+	display: block;
+    border: 1px solid black;
+    font-size: 2vw;
+	font-style:arial-bold;
+    text-align: center;
+    top:0%;
+	margin-top:-30%;
+	left:78%;
+    position: relative;
+    width: 13%
+}
+#text1 {
+	background-color: black;
+	color: white;
+    display: block;
+    position: relative;
+    font-size:1vw;
+    border: 1px solid black;
+    text-align: right;
+    top:0%;
+    margin-top:0.3%;
+    left:88.5%;
+    width: 2.5%
+}
+#text2 {
+	background-color: black;
+	color: white;
+    display: block;
+    position: relative;
+    text-align: center;
+    border: 1px solid black;
+    font-size:2vw;
+	font-style:arial-bold;
+    top:0%;
+    margin-top:0.3%;
+    left:75%;
+    width: 16%
+}
+footer, div {
+	background-color: white;
+	color: black;
+	border: 1px solid white;
+	text-align: center;
+	padding: 10px;
+	margin-top: -1%
+}
+#footer {
+	margin-top: -1%
+	background-color: white;
+	color: black;
+	border: 1px solid white;
+	text-align: center;
+	padding: 10px;
+}
